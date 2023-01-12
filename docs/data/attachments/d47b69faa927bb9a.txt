@@ -1,0 +1,1 @@
+	select place out of Ukrainian borders, expect error message to be visible
