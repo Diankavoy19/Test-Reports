@@ -1,0 +1,1 @@
+Click "Подати оголошення" button while being unathourized, expect login popup to be visible

@@ -1,0 +1,1 @@
+	type non-numeric and numeric characters in price input, expect only numeric characters to be entered

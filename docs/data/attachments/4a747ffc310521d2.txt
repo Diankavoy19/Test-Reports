@@ -1,0 +1,1 @@
+	fill out required inputs without phone number confirmation, click "ПОДАТИ НА РОГЗЛЯД" button, expect error message to be visible

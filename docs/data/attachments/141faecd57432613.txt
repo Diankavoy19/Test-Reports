@@ -1,0 +1,1 @@
+	leave without any photos, click "ДАЛІ" button, expect error class in image element

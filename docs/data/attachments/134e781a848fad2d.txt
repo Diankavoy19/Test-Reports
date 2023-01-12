@@ -1,0 +1,1 @@
+	leave empty field, click "ДАЛІ" button, expect error class in elements

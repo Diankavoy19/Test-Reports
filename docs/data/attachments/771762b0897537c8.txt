@@ -1,0 +1,1 @@
+	enter unknown service name, expect "не знайдено в нашій базі. Ви можете додати послугу" to be shown

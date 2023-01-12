@@ -1,0 +1,1 @@
+	enter already registred phone number, click "SMS" button, expect error message to be visible

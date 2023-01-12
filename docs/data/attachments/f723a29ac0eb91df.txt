@@ -1,0 +1,1 @@
+	upload one valid photo, and then upload same photo, expect error message is shown

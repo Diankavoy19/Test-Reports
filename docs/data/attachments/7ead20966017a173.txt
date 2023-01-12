@@ -1,0 +1,1 @@
+	press "Додати вартість", leave empty field, click "ДАЛІ" button, expect error messages to be visible

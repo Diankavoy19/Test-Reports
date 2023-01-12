@@ -1,0 +1,1 @@
+	leave empty fields, click "ДАЛІ" button, expect error messages to be visible

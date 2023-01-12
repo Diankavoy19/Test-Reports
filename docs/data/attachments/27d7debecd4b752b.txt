@@ -1,0 +1,1 @@
+	select one random service, remove it, click "ДАЛІ" button, expect error class in elements
